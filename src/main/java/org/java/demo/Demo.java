@@ -6,7 +6,7 @@ public class Demo {
         int sum = 0;
         for(int i=0 ;i<10; i++){
             sum += i;
-            System.out.println("i的值是："+sum);
+            System.out.println("i的值是="+sum);
         }
     }
 }
